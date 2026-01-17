@@ -1,0 +1,8 @@
+{
+  "name": "Brainora AI",
+  "description": "A sophisticated, high-performance AI assistant interface designed for seamless human-AI collaboration, featuring real-time chat, file integration, and a sleek modern UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
